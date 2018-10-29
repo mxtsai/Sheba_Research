@@ -12,7 +12,7 @@
 
 ## Supplement Information
 
-* Understanding **Gradient Boost** [link](http://www.cse.chalmers.se/~richajo/dit865/files/gb_explainer.pdf) 
+* Understanding **Gradient Boost** > [*link*](http://www.cse.chalmers.se/~richajo/dit865/files/gb_explainer.pdf) 
 
 
 ### Good Links to Medical Imaging Paper
